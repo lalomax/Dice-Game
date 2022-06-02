@@ -1,4 +1,5 @@
 html, body { 
+    --color-0: dodgerblue;
     --color-1: #a8e6cf;
     --color-2: #dcedc1; 
     --color-3: #ffd3b6; 
@@ -59,7 +60,7 @@ button {
 }
 
 #resetBtn {
-    background-color: var(--color-4);
+    background-color: var(--color-0);
 }
 
 button:focus {

@@ -46,3 +46,10 @@ function showReset() {
    resetBtn.style.display = "block"
    rollBtn.style.display = "none"
 }
+
+/*features to do
+- double or nothing button
+- maket the game fair
+- add animation
+- a flyng cow
+*/
